@@ -1,0 +1,3802 @@
+[
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "1",
+	"visitante": "2",
+	"fecha": {
+		"dia": "18/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "3",
+	"visitante": "4",
+	"fecha": {
+		"dia": "18/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "5",
+	"visitante": "6",
+	"fecha": {
+		"dia": "19/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "7",
+	"visitante": "8",
+	"fecha": {
+		"dia": "19/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "9",
+	"visitante": "10",
+	"fecha": {
+		"dia": "19/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "11",
+	"visitante": "12",
+	"fecha": {
+		"dia": "20/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "13",
+	"visitante": "14",
+	"fecha": {
+		"dia": "20/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "15",
+	"visitante": "16",
+	"fecha": {
+		"dia": "20/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "17",
+	"visitante": "18",
+	"fecha": {
+		"dia": "21/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "19",
+	"visitante": "20",
+	"fecha": {
+		"dia": "21/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "21",
+	"visitante": "22",
+	"fecha": {
+		"dia": "25/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "23",
+	"visitante": "24",
+	"fecha": {
+		"dia": "25/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "25",
+	"visitante": "26",
+	"fecha": {
+		"dia": "26/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "27",
+	"visitante": "28",
+	"fecha": {
+		"dia": "26/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "29",
+	"visitante": "30",
+	"fecha": {
+		"dia": "26/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-5"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "31",
+	"visitante": "32",
+	"fecha": {
+		"dia": "26/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "33",
+	"visitante": "34",
+	"fecha": {
+		"dia": "27/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "35",
+	"visitante": "36",
+	"fecha": {
+		"dia": "27/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "37",
+	"visitante": "38",
+	"fecha": {
+		"dia": "27/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "39",
+	"visitante": "40",
+	"fecha": {
+		"dia": "27/08/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "41",
+	"visitante": "42",
+	"fecha": {
+		"dia": "08/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "43",
+	"visitante": "44",
+	"fecha": {
+		"dia": "09/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "5-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "45",
+	"visitante": "46",
+	"fecha": {
+		"dia": "09/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "47",
+	"visitante": "48",
+	"fecha": {
+		"dia": "09/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "49",
+	"visitante": "50",
+	"fecha": {
+		"dia": "09/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "51",
+	"visitante": "52",
+	"fecha": {
+		"dia": "10/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "53",
+	"visitante": "54",
+	"fecha": {
+		"dia": "10/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "55",
+	"visitante": "56",
+	"fecha": {
+		"dia": "10/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-4"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "57",
+	"visitante": "58",
+	"fecha": {
+		"dia": "10/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "59",
+	"visitante": "60",
+	"fecha": {
+		"dia": "11/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "61",
+	"visitante": "62",
+	"fecha": {
+		"dia": "15/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "63",
+	"visitante": "64",
+	"fecha": {
+		"dia": "16/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "65",
+	"visitante": "66",
+	"fecha": {
+		"dia": "16/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "67",
+	"visitante": "68",
+	"fecha": {
+		"dia": "16/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "69",
+	"visitante": "70",
+	"fecha": {
+		"dia": "16/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "71",
+	"visitante": "72",
+	"fecha": {
+		"dia": "17/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "73",
+	"visitante": "74",
+	"fecha": {
+		"dia": "17/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "75",
+	"visitante": "76",
+	"fecha": {
+		"dia": "17/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "77",
+	"visitante": "78",
+	"fecha": {
+		"dia": "17/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "79",
+	"visitante": "80",
+	"fecha": {
+		"dia": "18/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "81",
+	"visitante": "82",
+	"fecha": {
+		"dia": "19/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "6-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "83",
+	"visitante": "84",
+	"fecha": {
+		"dia": "19/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "5-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "85",
+	"visitante": "86",
+	"fecha": {
+		"dia": "20/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "87",
+	"visitante": "88",
+	"fecha": {
+		"dia": "20/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "89",
+	"visitante": "90",
+	"fecha": {
+		"dia": "20/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "91",
+	"visitante": "92",
+	"fecha": {
+		"dia": "20/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "93",
+	"visitante": "94",
+	"fecha": {
+		"dia": "20/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "95",
+	"visitante": "96",
+	"fecha": {
+		"dia": "21/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "97",
+	"visitante": "98",
+	"fecha": {
+		"dia": "21/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "99",
+	"visitante": "100",
+	"fecha": {
+		"dia": "21/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "101",
+	"visitante": "102",
+	"fecha": {
+		"dia": "23/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "103",
+	"visitante": "104",
+	"fecha": {
+		"dia": "23/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "105",
+	"visitante": "106",
+	"fecha": {
+		"dia": "23/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "107",
+	"visitante": "108",
+	"fecha": {
+		"dia": "23/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "109",
+	"visitante": "110",
+	"fecha": {
+		"dia": "24/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-4"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "111",
+	"visitante": "112",
+	"fecha": {
+		"dia": "24/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "4-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "113",
+	"visitante": "114",
+	"fecha": {
+		"dia": "24/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "4-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "115",
+	"visitante": "116",
+	"fecha": {
+		"dia": "24/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "117",
+	"visitante": "118",
+	"fecha": {
+		"dia": "24/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "119",
+	"visitante": "120",
+	"fecha": {
+		"dia": "25/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "4-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "121",
+	"visitante": "122",
+	"fecha": {
+		"dia": "29/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "123",
+	"visitante": "124",
+	"fecha": {
+		"dia": "30/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "125",
+	"visitante": "126",
+	"fecha": {
+		"dia": "30/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "127",
+	"visitante": "128",
+	"fecha": {
+		"dia": "30/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "129",
+	"visitante": "130",
+	"fecha": {
+		"dia": "30/09/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "131",
+	"visitante": "132",
+	"fecha": {
+		"dia": "01/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "133",
+	"visitante": "134",
+	"fecha": {
+		"dia": "01/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "135",
+	"visitante": "136",
+	"fecha": {
+		"dia": "01/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "4-4"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "137",
+	"visitante": "138",
+	"fecha": {
+		"dia": "01/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "139",
+	"visitante": "140",
+	"fecha": {
+		"dia": "01/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "141",
+	"visitante": "142",
+	"fecha": {
+		"dia": "13/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "143",
+	"visitante": "144",
+	"fecha": {
+		"dia": "14/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "145",
+	"visitante": "146",
+	"fecha": {
+		"dia": "14/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "147",
+	"visitante": "148",
+	"fecha": {
+		"dia": "14/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "149",
+	"visitante": "150",
+	"fecha": {
+		"dia": "14/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "151",
+	"visitante": "152",
+	"fecha": {
+		"dia": "15/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-6"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "153",
+	"visitante": "154",
+	"fecha": {
+		"dia": "15/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "155",
+	"visitante": "156",
+	"fecha": {
+		"dia": "15/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "157",
+	"visitante": "158",
+	"fecha": {
+		"dia": "15/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "159",
+	"visitante": "160",
+	"fecha": {
+		"dia": "16/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-5"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "161",
+	"visitante": "162",
+	"fecha": {
+		"dia": "21/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "163",
+	"visitante": "164",
+	"fecha": {
+		"dia": "21/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "165",
+	"visitante": "166",
+	"fecha": {
+		"dia": "21/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "167",
+	"visitante": "168",
+	"fecha": {
+		"dia": "21/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "4-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "169",
+	"visitante": "170",
+	"fecha": {
+		"dia": "22/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "171",
+	"visitante": "172",
+	"fecha": {
+		"dia": "22/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "173",
+	"visitante": "174",
+	"fecha": {
+		"dia": "22/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "175",
+	"visitante": "176",
+	"fecha": {
+		"dia": "22/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "4-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "177",
+	"visitante": "178",
+	"fecha": {
+		"dia": "23/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "179",
+	"visitante": "180",
+	"fecha": {
+		"dia": "23/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "181",
+	"visitante": "182",
+	"fecha": {
+		"dia": "28/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "183",
+	"visitante": "184",
+	"fecha": {
+		"dia": "28/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "185",
+	"visitante": "186",
+	"fecha": {
+		"dia": "28/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "187",
+	"visitante": "188",
+	"fecha": {
+		"dia": "28/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "189",
+	"visitante": "190",
+	"fecha": {
+		"dia": "29/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "191",
+	"visitante": "192",
+	"fecha": {
+		"dia": "29/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "193",
+	"visitante": "194",
+	"fecha": {
+		"dia": "29/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "195",
+	"visitante": "196",
+	"fecha": {
+		"dia": "29/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "197",
+	"visitante": "198",
+	"fecha": {
+		"dia": "30/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "199",
+	"visitante": "200",
+	"fecha": {
+		"dia": "30/10/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "201",
+	"visitante": "202",
+	"fecha": {
+		"dia": "03/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "203",
+	"visitante": "204",
+	"fecha": {
+		"dia": "04/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "205",
+	"visitante": "206",
+	"fecha": {
+		"dia": "04/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "207",
+	"visitante": "208",
+	"fecha": {
+		"dia": "04/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "209",
+	"visitante": "210",
+	"fecha": {
+		"dia": "04/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "211",
+	"visitante": "212",
+	"fecha": {
+		"dia": "05/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "213",
+	"visitante": "214",
+	"fecha": {
+		"dia": "05/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "215",
+	"visitante": "216",
+	"fecha": {
+		"dia": "05/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "217",
+	"visitante": "218",
+	"fecha": {
+		"dia": "05/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "219",
+	"visitante": "220",
+	"fecha": {
+		"dia": "05/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "221",
+	"visitante": "222",
+	"fecha": {
+		"dia": "17/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "223",
+	"visitante": "224",
+	"fecha": {
+		"dia": "18/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "225",
+	"visitante": "226",
+	"fecha": {
+		"dia": "18/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "4-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "227",
+	"visitante": "228",
+	"fecha": {
+		"dia": "18/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "229",
+	"visitante": "230",
+	"fecha": {
+		"dia": "18/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "231",
+	"visitante": "232",
+	"fecha": {
+		"dia": "19/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "233",
+	"visitante": "234",
+	"fecha": {
+		"dia": "19/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "235",
+	"visitante": "236",
+	"fecha": {
+		"dia": "19/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "237",
+	"visitante": "238",
+	"fecha": {
+		"dia": "19/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "239",
+	"visitante": "240",
+	"fecha": {
+		"dia": "20/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "5-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "241",
+	"visitante": "242",
+	"fecha": {
+		"dia": "24/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "243",
+	"visitante": "244",
+	"fecha": {
+		"dia": "25/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "245",
+	"visitante": "246",
+	"fecha": {
+		"dia": "25/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "247",
+	"visitante": "248",
+	"fecha": {
+		"dia": "25/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-5"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "249",
+	"visitante": "250",
+	"fecha": {
+		"dia": "25/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "251",
+	"visitante": "252",
+	"fecha": {
+		"dia": "26/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "253",
+	"visitante": "254",
+	"fecha": {
+		"dia": "26/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "255",
+	"visitante": "256",
+	"fecha": {
+		"dia": "26/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "257",
+	"visitante": "258",
+	"fecha": {
+		"dia": "26/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "259",
+	"visitante": "260",
+	"fecha": {
+		"dia": "27/11/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "261",
+	"visitante": "262",
+	"fecha": {
+		"dia": "01/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "263",
+	"visitante": "264",
+	"fecha": {
+		"dia": "02/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "265",
+	"visitante": "266",
+	"fecha": {
+		"dia": "02/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "267",
+	"visitante": "268",
+	"fecha": {
+		"dia": "02/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "269",
+	"visitante": "270",
+	"fecha": {
+		"dia": "02/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "271",
+	"visitante": "272",
+	"fecha": {
+		"dia": "03/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "273",
+	"visitante": "274",
+	"fecha": {
+		"dia": "03/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "275",
+	"visitante": "276",
+	"fecha": {
+		"dia": "03/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "277",
+	"visitante": "278",
+	"fecha": {
+		"dia": "03/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "279",
+	"visitante": "280",
+	"fecha": {
+		"dia": "04/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "281",
+	"visitante": "282",
+	"fecha": {
+		"dia": "08/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "283",
+	"visitante": "284",
+	"fecha": {
+		"dia": "09/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "285",
+	"visitante": "286",
+	"fecha": {
+		"dia": "09/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "287",
+	"visitante": "288",
+	"fecha": {
+		"dia": "09/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "5-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "289",
+	"visitante": "290",
+	"fecha": {
+		"dia": "09/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "291",
+	"visitante": "292",
+	"fecha": {
+		"dia": "10/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "293",
+	"visitante": "294",
+	"fecha": {
+		"dia": "10/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "295",
+	"visitante": "296",
+	"fecha": {
+		"dia": "10/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "297",
+	"visitante": "298",
+	"fecha": {
+		"dia": "10/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "299",
+	"visitante": "300",
+	"fecha": {
+		"dia": "11/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "301",
+	"visitante": "302",
+	"fecha": {
+		"dia": "15/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "303",
+	"visitante": "304",
+	"fecha": {
+		"dia": "16/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "305",
+	"visitante": "306",
+	"fecha": {
+		"dia": "16/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "307",
+	"visitante": "308",
+	"fecha": {
+		"dia": "16/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "309",
+	"visitante": "310",
+	"fecha": {
+		"dia": "17/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "4-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "311",
+	"visitante": "312",
+	"fecha": {
+		"dia": "17/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "313",
+	"visitante": "314",
+	"fecha": {
+		"dia": "17/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "315",
+	"visitante": "316",
+	"fecha": {
+		"dia": "17/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "317",
+	"visitante": "318",
+	"fecha": {
+		"dia": "18/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "319",
+	"visitante": "320",
+	"fecha": {
+		"dia": "19/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "321",
+	"visitante": "322",
+	"fecha": {
+		"dia": "20/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "323",
+	"visitante": "324",
+	"fecha": {
+		"dia": "20/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "3-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "325",
+	"visitante": "326",
+	"fecha": {
+		"dia": "21/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "327",
+	"visitante": "328",
+	"fecha": {
+		"dia": "21/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "4-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "329",
+	"visitante": "330",
+	"fecha": {
+		"dia": "22/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "331",
+	"visitante": "332",
+	"fecha": {
+		"dia": "22/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "333",
+	"visitante": "334",
+	"fecha": {
+		"dia": "23/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "1-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "335",
+	"visitante": "336",
+	"fecha": {
+		"dia": "23/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "337",
+	"visitante": "338",
+	"fecha": {
+		"dia": "23/12/2017",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "339",
+	"visitante": "340",
+	"fecha": {
+		"dia": "06/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "341",
+	"visitante": "342",
+	"fecha": {
+		"dia": "06/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "343",
+	"visitante": "344",
+	"fecha": {
+		"dia": "06/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-5"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "345",
+	"visitante": "346",
+	"fecha": {
+		"dia": "06/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "347",
+	"visitante": "348",
+	"fecha": {
+		"dia": "07/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "349",
+	"visitante": "350",
+	"fecha": {
+		"dia": "07/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "351",
+	"visitante": "352",
+	"fecha": {
+		"dia": "07/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "353",
+	"visitante": "354",
+	"fecha": {
+		"dia": "07/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "355",
+	"visitante": "356",
+	"fecha": {
+		"dia": "07/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "357",
+	"visitante": "358",
+	"fecha": {
+		"dia": "08/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "359",
+	"visitante": "360",
+	"fecha": {
+		"dia": "12/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "361",
+	"visitante": "362",
+	"fecha": {
+		"dia": "13/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "363",
+	"visitante": "364",
+	"fecha": {
+		"dia": "13/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "6-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "365",
+	"visitante": "366",
+	"fecha": {
+		"dia": "13/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "367",
+	"visitante": "368",
+	"fecha": {
+		"dia": "13/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "369",
+	"visitante": "370",
+	"fecha": {
+		"dia": "14/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "371",
+	"visitante": "372",
+	"fecha": {
+		"dia": "14/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "373",
+	"visitante": "374",
+	"fecha": {
+		"dia": "14/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "375",
+	"visitante": "376",
+	"fecha": {
+		"dia": "14/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-4"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "377",
+	"visitante": "378",
+	"fecha": {
+		"dia": "15/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "379",
+	"visitante": "380",
+	"fecha": {
+		"dia": "19/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "381",
+	"visitante": "382",
+	"fecha": {
+		"dia": "20/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "383",
+	"visitante": "384",
+	"fecha": {
+		"dia": "20/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "385",
+	"visitante": "386",
+	"fecha": {
+		"dia": "20/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "387",
+	"visitante": "388",
+	"fecha": {
+		"dia": "20/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "389",
+	"visitante": "390",
+	"fecha": {
+		"dia": "21/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "391",
+	"visitante": "392",
+	"fecha": {
+		"dia": "21/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-5"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "393",
+	"visitante": "394",
+	"fecha": {
+		"dia": "21/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "7-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "395",
+	"visitante": "396",
+	"fecha": {
+		"dia": "21/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "397",
+	"visitante": "398",
+	"fecha": {
+		"dia": "22/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "399",
+	"visitante": "400",
+	"fecha": {
+		"dia": "26/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "401",
+	"visitante": "402",
+	"fecha": {
+		"dia": "27/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "403",
+	"visitante": "404",
+	"fecha": {
+		"dia": "27/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "405",
+	"visitante": "406",
+	"fecha": {
+		"dia": "27/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-4"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "407",
+	"visitante": "408",
+	"fecha": {
+		"dia": "27/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "4-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "409",
+	"visitante": "410",
+	"fecha": {
+		"dia": "28/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "411",
+	"visitante": "412",
+	"fecha": {
+		"dia": "28/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "413",
+	"visitante": "414",
+	"fecha": {
+		"dia": "28/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "415",
+	"visitante": "416",
+	"fecha": {
+		"dia": "28/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "417",
+	"visitante": "418",
+	"fecha": {
+		"dia": "29/01/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "419",
+	"visitante": "420",
+	"fecha": {
+		"dia": "02/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "5-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "421",
+	"visitante": "422",
+	"fecha": {
+		"dia": "03/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "423",
+	"visitante": "424",
+	"fecha": {
+		"dia": "03/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "425",
+	"visitante": "426",
+	"fecha": {
+		"dia": "03/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "5-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "427",
+	"visitante": "428",
+	"fecha": {
+		"dia": "03/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "429",
+	"visitante": "430",
+	"fecha": {
+		"dia": "04/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "431",
+	"visitante": "432",
+	"fecha": {
+		"dia": "04/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "433",
+	"visitante": "434",
+	"fecha": {
+		"dia": "04/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "435",
+	"visitante": "436",
+	"fecha": {
+		"dia": "04/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "437",
+	"visitante": "438",
+	"fecha": {
+		"dia": "05/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "439",
+	"visitante": "440",
+	"fecha": {
+		"dia": "09/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "441",
+	"visitante": "442",
+	"fecha": {
+		"dia": "10/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "443",
+	"visitante": "444",
+	"fecha": {
+		"dia": "10/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "445",
+	"visitante": "446",
+	"fecha": {
+		"dia": "10/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "5-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "447",
+	"visitante": "448",
+	"fecha": {
+		"dia": "10/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "449",
+	"visitante": "450",
+	"fecha": {
+		"dia": "11/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "451",
+	"visitante": "452",
+	"fecha": {
+		"dia": "11/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "453",
+	"visitante": "454",
+	"fecha": {
+		"dia": "11/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "455",
+	"visitante": "456",
+	"fecha": {
+		"dia": "11/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "457",
+	"visitante": "458",
+	"fecha": {
+		"dia": "12/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "459",
+	"visitante": "460",
+	"fecha": {
+		"dia": "16/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "461",
+	"visitante": "462",
+	"fecha": {
+		"dia": "17/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "463",
+	"visitante": "464",
+	"fecha": {
+		"dia": "17/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "465",
+	"visitante": "466",
+	"fecha": {
+		"dia": "17/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "467",
+	"visitante": "468",
+	"fecha": {
+		"dia": "17/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "469",
+	"visitante": "470",
+	"fecha": {
+		"dia": "18/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "471",
+	"visitante": "472",
+	"fecha": {
+		"dia": "18/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-5"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "473",
+	"visitante": "474",
+	"fecha": {
+		"dia": "18/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "475",
+	"visitante": "476",
+	"fecha": {
+		"dia": "18/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "477",
+	"visitante": "478",
+	"fecha": {
+		"dia": "19/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "479",
+	"visitante": "480",
+	"fecha": {
+		"dia": "21/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "481",
+	"visitante": "482",
+	"fecha": {
+		"dia": "23/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "483",
+	"visitante": "484",
+	"fecha": {
+		"dia": "24/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "6-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "485",
+	"visitante": "486",
+	"fecha": {
+		"dia": "24/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "487",
+	"visitante": "488",
+	"fecha": {
+		"dia": "24/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "489",
+	"visitante": "490",
+	"fecha": {
+		"dia": "24/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "4-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "491",
+	"visitante": "492",
+	"fecha": {
+		"dia": "25/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "493",
+	"visitante": "494",
+	"fecha": {
+		"dia": "25/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-5"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "495",
+	"visitante": "496",
+	"fecha": {
+		"dia": "25/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "497",
+	"visitante": "498",
+	"fecha": {
+		"dia": "25/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "499",
+	"visitante": "500",
+	"fecha": {
+		"dia": "26/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "501",
+	"visitante": "502",
+	"fecha": {
+		"dia": "27/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "503",
+	"visitante": "504",
+	"fecha": {
+		"dia": "27/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "505",
+	"visitante": "506",
+	"fecha": {
+		"dia": "28/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "507",
+	"visitante": "508",
+	"fecha": {
+		"dia": "28/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "4-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "509",
+	"visitante": "510",
+	"fecha": {
+		"dia": "28/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "511",
+	"visitante": "512",
+	"fecha": {
+		"dia": "28/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "513",
+	"visitante": "514",
+	"fecha": {
+		"dia": "28/02/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "515",
+	"visitante": "516",
+	"fecha": {
+		"dia": "01/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "517",
+	"visitante": "518",
+	"fecha": {
+		"dia": "01/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "519",
+	"visitante": "520",
+	"fecha": {
+		"dia": "01/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "521",
+	"visitante": "522",
+	"fecha": {
+		"dia": "03/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "523",
+	"visitante": "524",
+	"fecha": {
+		"dia": "03/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "525",
+	"visitante": "526",
+	"fecha": {
+		"dia": "03/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "527",
+	"visitante": "528",
+	"fecha": {
+		"dia": "03/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "529",
+	"visitante": "530",
+	"fecha": {
+		"dia": "03/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "531",
+	"visitante": "532",
+	"fecha": {
+		"dia": "04/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "533",
+	"visitante": "534",
+	"fecha": {
+		"dia": "04/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "535",
+	"visitante": "536",
+	"fecha": {
+		"dia": "04/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "537",
+	"visitante": "538",
+	"fecha": {
+		"dia": "04/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "539",
+	"visitante": "540",
+	"fecha": {
+		"dia": "05/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "541",
+	"visitante": "542",
+	"fecha": {
+		"dia": "09/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "543",
+	"visitante": "544",
+	"fecha": {
+		"dia": "10/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "545",
+	"visitante": "546",
+	"fecha": {
+		"dia": "10/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "547",
+	"visitante": "548",
+	"fecha": {
+		"dia": "10/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "549",
+	"visitante": "550",
+	"fecha": {
+		"dia": "10/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "551",
+	"visitante": "552",
+	"fecha": {
+		"dia": "11/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "553",
+	"visitante": "554",
+	"fecha": {
+		"dia": "11/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "555",
+	"visitante": "556",
+	"fecha": {
+		"dia": "11/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "557",
+	"visitante": "558",
+	"fecha": {
+		"dia": "11/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "559",
+	"visitante": "560",
+	"fecha": {
+		"dia": "12/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "561",
+	"visitante": "562",
+	"fecha": {
+		"dia": "16/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "563",
+	"visitante": "564",
+	"fecha": {
+		"dia": "17/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "565",
+	"visitante": "566",
+	"fecha": {
+		"dia": "17/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "567",
+	"visitante": "568",
+	"fecha": {
+		"dia": "17/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "569",
+	"visitante": "570",
+	"fecha": {
+		"dia": "17/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "571",
+	"visitante": "572",
+	"fecha": {
+		"dia": "18/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "573",
+	"visitante": "574",
+	"fecha": {
+		"dia": "18/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "575",
+	"visitante": "576",
+	"fecha": {
+		"dia": "18/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "577",
+	"visitante": "578",
+	"fecha": {
+		"dia": "18/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "6-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "579",
+	"visitante": "580",
+	"fecha": {
+		"dia": "18/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "581",
+	"visitante": "582",
+	"fecha": {
+		"dia": "31/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "583",
+	"visitante": "584",
+	"fecha": {
+		"dia": "31/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "585",
+	"visitante": "586",
+	"fecha": {
+		"dia": "31/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "587",
+	"visitante": "588",
+	"fecha": {
+		"dia": "31/03/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "589",
+	"visitante": "590",
+	"fecha": {
+		"dia": "01/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "591",
+	"visitante": "592",
+	"fecha": {
+		"dia": "01/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "593",
+	"visitante": "594",
+	"fecha": {
+		"dia": "01/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "595",
+	"visitante": "596",
+	"fecha": {
+		"dia": "01/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "597",
+	"visitante": "598",
+	"fecha": {
+		"dia": "01/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "599",
+	"visitante": "600",
+	"fecha": {
+		"dia": "02/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "601",
+	"visitante": "602",
+	"fecha": {
+		"dia": "06/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "603",
+	"visitante": "604",
+	"fecha": {
+		"dia": "07/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "605",
+	"visitante": "606",
+	"fecha": {
+		"dia": "07/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "607",
+	"visitante": "608",
+	"fecha": {
+		"dia": "07/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "609",
+	"visitante": "610",
+	"fecha": {
+		"dia": "07/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "4-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "611",
+	"visitante": "612",
+	"fecha": {
+		"dia": "08/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "613",
+	"visitante": "614",
+	"fecha": {
+		"dia": "08/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "615",
+	"visitante": "616",
+	"fecha": {
+		"dia": "08/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "5-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "617",
+	"visitante": "618",
+	"fecha": {
+		"dia": "08/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "619",
+	"visitante": "620",
+	"fecha": {
+		"dia": "09/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "621",
+	"visitante": "622",
+	"fecha": {
+		"dia": "13/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "623",
+	"visitante": "624",
+	"fecha": {
+		"dia": "14/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "625",
+	"visitante": "626",
+	"fecha": {
+		"dia": "14/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "627",
+	"visitante": "628",
+	"fecha": {
+		"dia": "14/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "629",
+	"visitante": "630",
+	"fecha": {
+		"dia": "14/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "631",
+	"visitante": "632",
+	"fecha": {
+		"dia": "14/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "633",
+	"visitante": "634",
+	"fecha": {
+		"dia": "15/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "635",
+	"visitante": "636",
+	"fecha": {
+		"dia": "15/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "637",
+	"visitante": "638",
+	"fecha": {
+		"dia": "15/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "639",
+	"visitante": "640",
+	"fecha": {
+		"dia": "15/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "641",
+	"visitante": "642",
+	"fecha": {
+		"dia": "17/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "643",
+	"visitante": "644",
+	"fecha": {
+		"dia": "17/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "645",
+	"visitante": "646",
+	"fecha": {
+		"dia": "17/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "647",
+	"visitante": "648",
+	"fecha": {
+		"dia": "18/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "649",
+	"visitante": "650",
+	"fecha": {
+		"dia": "18/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "651",
+	"visitante": "652",
+	"fecha": {
+		"dia": "18/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "653",
+	"visitante": "654",
+	"fecha": {
+		"dia": "19/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "655",
+	"visitante": "656",
+	"fecha": {
+		"dia": "19/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "657",
+	"visitante": "658",
+	"fecha": {
+		"dia": "19/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "659",
+	"visitante": "660",
+	"fecha": {
+		"dia": "19/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "661",
+	"visitante": "662",
+	"fecha": {
+		"dia": "20/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "663",
+	"visitante": "664",
+	"fecha": {
+		"dia": "21/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "665",
+	"visitante": "666",
+	"fecha": {
+		"dia": "21/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "667",
+	"visitante": "668",
+	"fecha": {
+		"dia": "22/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "669",
+	"visitante": "670",
+	"fecha": {
+		"dia": "22/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "671",
+	"visitante": "672",
+	"fecha": {
+		"dia": "22/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-4"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "673",
+	"visitante": "674",
+	"fecha": {
+		"dia": "22/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "675",
+	"visitante": "676",
+	"fecha": {
+		"dia": "23/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "677",
+	"visitante": "678",
+	"fecha": {
+		"dia": "27/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "679",
+	"visitante": "680",
+	"fecha": {
+		"dia": "28/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "681",
+	"visitante": "682",
+	"fecha": {
+		"dia": "28/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "683",
+	"visitante": "684",
+	"fecha": {
+		"dia": "28/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "685",
+	"visitante": "686",
+	"fecha": {
+		"dia": "28/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "4-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "687",
+	"visitante": "688",
+	"fecha": {
+		"dia": "29/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "689",
+	"visitante": "690",
+	"fecha": {
+		"dia": "29/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "691",
+	"visitante": "692",
+	"fecha": {
+		"dia": "29/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-4"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "693",
+	"visitante": "694",
+	"fecha": {
+		"dia": "29/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "695",
+	"visitante": "696",
+	"fecha": {
+		"dia": "30/04/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "697",
+	"visitante": "698",
+	"fecha": {
+		"dia": "04/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "699",
+	"visitante": "700",
+	"fecha": {
+		"dia": "05/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "701",
+	"visitante": "702",
+	"fecha": {
+		"dia": "05/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "703",
+	"visitante": "704",
+	"fecha": {
+		"dia": "05/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-4"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "705",
+	"visitante": "706",
+	"fecha": {
+		"dia": "05/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "707",
+	"visitante": "708",
+	"fecha": {
+		"dia": "06/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "709",
+	"visitante": "710",
+	"fecha": {
+		"dia": "06/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "711",
+	"visitante": "712",
+	"fecha": {
+		"dia": "06/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "713",
+	"visitante": "714",
+	"fecha": {
+		"dia": "06/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "715",
+	"visitante": "716",
+	"fecha": {
+		"dia": "07/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-3"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "717",
+	"visitante": "718",
+	"fecha": {
+		"dia": "09/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "5-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "719",
+	"visitante": "720",
+	"fecha": {
+		"dia": "09/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "721",
+	"visitante": "722",
+	"fecha": {
+		"dia": "12/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "723",
+	"visitante": "724",
+	"fecha": {
+		"dia": "12/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "725",
+	"visitante": "726",
+	"fecha": {
+		"dia": "12/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "727",
+	"visitante": "728",
+	"fecha": {
+		"dia": "12/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "729",
+	"visitante": "730",
+	"fecha": {
+		"dia": "12/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "731",
+	"visitante": "732",
+	"fecha": {
+		"dia": "12/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-4"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "733",
+	"visitante": "734",
+	"fecha": {
+		"dia": "12/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "6-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "735",
+	"visitante": "736",
+	"fecha": {
+		"dia": "12/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "737",
+	"visitante": "738",
+	"fecha": {
+		"dia": "13/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "4-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "739",
+	"visitante": "740",
+	"fecha": {
+		"dia": "13/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "5-4"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "741",
+	"visitante": "742",
+	"fecha": {
+		"dia": "19/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "4-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "743",
+	"visitante": "744",
+	"fecha": {
+		"dia": "19/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "745",
+	"visitante": "746",
+	"fecha": {
+		"dia": "19/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "3-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "747",
+	"visitante": "748",
+	"fecha": {
+		"dia": "19/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "749",
+	"visitante": "750",
+	"fecha": {
+		"dia": "19/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "751",
+	"visitante": "752",
+	"fecha": {
+		"dia": "19/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "753",
+	"visitante": "754",
+	"fecha": {
+		"dia": "20/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "0-1"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "755",
+	"visitante": "756",
+	"fecha": {
+		"dia": "20/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-2"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "757",
+	"visitante": "758",
+	"fecha": {
+		"dia": "20/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "1-0"
+},
+{
+	"class": "com.acing.eventos.Evento",
+	"local": "759",
+	"visitante": "760",
+	"fecha": {
+		"dia": "20/05/2018",
+		"hora": "00:00"
+	},
+	"resultado": "2-1"
+}
+]
